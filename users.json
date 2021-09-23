@@ -1,0 +1,44 @@
+{
+    "users_list": [
+        {
+            "id": 204970273819066368,
+            "learning_time": 0,
+            "join_time": 0
+        },
+        {
+            "id": 347929414463651840,
+            "learning_time": 1.624574860797988,
+            "join_time": 1632412692.4600937
+        },
+        {
+            "id": 352409284782587906,
+            "learning_time": 0,
+            "join_time": 0
+        },
+        {
+            "id": 447692948843266048,
+            "learning_time": 0,
+            "join_time": 0
+        },
+        {
+            "id": 557160283601240077,
+            "learning_time": 1.7716538042492338,
+            "join_time": 1632412988.7631984
+        },
+        {
+            "id": 570199957542535178,
+            "learning_time": 0,
+            "join_time": 0
+        },
+        {
+            "id": 606914544975085600,
+            "learning_time": 0,
+            "join_time": 0
+        },
+        {
+            "id": 656516732181282816,
+            "learning_time": 0,
+            "join_time": 0
+        }
+    ]
+}
