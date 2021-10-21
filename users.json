@@ -1,43 +1,5483 @@
 {
     "users_list": [
         {
-            "id": 204970273819066368,
+            "id": 891340642637209631,
+            "name": "vivian",
             "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
             "join_time": 0
         },
         {
-            "id": 347929414463651840,
-            "learning_time": 1.624574860797988,
-            "join_time": 1632412692.4600937
-        },
-        {
-            "id": 352409284782587906,
+            "id": 891291387230838804,
+            "name": "Kh\u00e1nh Lyn",
             "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
             "join_time": 0
         },
         {
-            "id": 447692948843266048,
-            "learning_time": 0,
+            "id": 889915021323292693,
+            "name": "De Makism",
+            "learning_time": 5.751869090861745,
+            "day_learning": 4.091991439594163,
+            "week_learning": 5.751869090861745,
+            "month_learning": 5.751869090861745,
+            "current_level": 1,
             "join_time": 0
         },
         {
-            "id": 557160283601240077,
-            "learning_time": 1.7716538042492338,
-            "join_time": 1632412988.7631984
-        },
-        {
-            "id": 570199957542535178,
+            "id": 887704944692576297,
+            "name": "Call me Yu",
             "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
             "join_time": 0
         },
         {
-            "id": 606914544975085600,
+            "id": 876013499015381002,
+            "name": "Kawaii",
+            "learning_time": 5.852577135629124,
+            "day_learning": 3.150440936088562,
+            "week_learning": 5.852577135629124,
+            "month_learning": 5.852577135629124,
+            "current_level": 1,
+            "join_time": 0
+        },
+        {
+            "id": 832134568084635688,
+            "name": "Insomaniac",
             "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 777820113860427776,
+            "name": "_thanhchi_19",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 761566938874118194,
+            "name": "L\u00ea Huy",
+            "learning_time": 2.5604431978861495,
+            "day_learning": 0,
+            "week_learning": 2.5604431978861495,
+            "month_learning": 2.5604431978861495,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 692394060442501140,
+            "name": "tanphuc",
+            "learning_time": 13.394844087031155,
+            "day_learning": 0.5149790765179528,
+            "week_learning": 13.394844087031155,
+            "month_learning": 13.394844087031155,
+            "current_level": 3,
             "join_time": 0
         },
         {
             "id": 656516732181282816,
+            "name": "Finn Nguyen DCH",
+            "learning_time": 39.74294337782596,
+            "day_learning": 8.002357404960527,
+            "week_learning": 39.74294337782596,
+            "month_learning": 39.74294337782596,
+            "current_level": 3,
+            "join_time": 1634803072.8552444
+        },
+        {
+            "id": 607911977485860864,
+            "name": "V\u0103n Hu\u1ef3nh",
+            "learning_time": 4.136941911313269,
+            "day_learning": 0,
+            "week_learning": 4.136941911313269,
+            "month_learning": 4.136941911313269,
+            "current_level": 1,
+            "join_time": 0
+        },
+        {
+            "id": 592710254282801153,
+            "name": "gumussermi",
+            "learning_time": 6.256450108024809,
+            "day_learning": 0,
+            "week_learning": 6.256450108024809,
+            "month_learning": 6.256450108024809,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 557160283601240077,
+            "name": "NDK | Kairuss",
+            "learning_time": 11.862679446604517,
+            "day_learning": 1.1826786759826873,
+            "week_learning": 11.862679446604517,
+            "month_learning": 11.862679446604517,
+            "current_level": 2,
+            "join_time": 1634803456.5514536
+        },
+        {
+            "id": 391206498484748289,
+            "name": "Chanas",
+            "learning_time": 33.80966522137324,
+            "day_learning": 8.783143343991703,
+            "week_learning": 33.80966522137324,
+            "month_learning": 33.80966522137324,
+            "current_level": 3,
+            "join_time": 0
+        },
+        {
+            "id": 352409284782587906,
+            "name": "Sly-isme",
+            "learning_time": 27.964083009759587,
+            "day_learning": 12.668654379645984,
+            "week_learning": 27.964083009759587,
+            "month_learning": 27.964083009759587,
+            "current_level": 3,
+            "join_time": 0
+        },
+        {
+            "id": 254606423948918785,
+            "name": "thaihwang \ud83d\ude4b\ud83c\udffd",
+            "learning_time": 35.681326030691466,
+            "day_learning": 20.81443988204002,
+            "week_learning": 35.681326030691466,
+            "month_learning": 35.681326030691466,
+            "current_level": 3,
+            "join_time": 1634799989.2258296
+        },
+        {
+            "id": 204970273819066368,
+            "name": "Quang Huy",
+            "learning_time": 4.895112798412641,
+            "day_learning": 1.1671432063976923,
+            "week_learning": 4.895112798412641,
+            "month_learning": 4.895112798412641,
+            "current_level": 1,
+            "join_time": 0
+        },
+        {
+            "id": 889045944547565588,
+            "name": "Tran Hong Vy",
             "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 663676845501317150,
+            "name": "Mao Zhedong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 700739772364095669,
+            "name": "Longhydra",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 878440217269379072,
+            "name": "Phanh85",
+            "learning_time": 8.144792454706298,
+            "day_learning": 0,
+            "week_learning": 8.144792454706298,
+            "month_learning": 8.144792454706298,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 474762179107618827,
+            "name": "TGK",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 711420829061087352,
+            "name": "longshino",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 551264963906240512,
+            "name": "Blu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 769391596474073098,
+            "name": "Ted5",
+            "learning_time": 0.9927450627088547,
+            "day_learning": 0,
+            "week_learning": 0.9927450627088547,
+            "month_learning": 0.9927450627088547,
+            "current_level": 0,
+            "join_time": 1633009894.4728422
+        },
+        {
+            "id": 419897639702888459,
+            "name": "SunT",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 882221353573433394,
+            "name": "crazyaboutu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 700847229841178654,
+            "name": "HaruBaChu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891536038491721778,
+            "name": "Chang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 510323420567830530,
+            "name": "Qu\u1ed1c Tu\u1ea5n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 869074492805230612,
+            "name": "Minh Nh\u1eadt",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 770959426672656394,
+            "name": "N\u00f4 T\u00ec c\u1ee7a M\u00e2y M\u00e2y",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 861239107500769320,
+            "name": "Andrewww",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 416174287527870465,
+            "name": "MyNameIsAn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 859449111560323122,
+            "name": "fifi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 763048651152162907,
+            "name": "nquynh",
+            "learning_time": 0.0012492320934931436,
+            "day_learning": 0,
+            "week_learning": 0.0012492320934931436,
+            "month_learning": 0.0012492320934931436,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 339995142536822788,
+            "name": "tamxo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 809839505892573257,
+            "name": "choanhcun",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 752900863709675622,
+            "name": "MrGop212",
+            "learning_time": 0.0015050362216101753,
+            "day_learning": 0,
+            "week_learning": 0.0015050362216101753,
+            "month_learning": 0.0015050362216101753,
+            "current_level": -1,
+            "join_time": 1633005311.4264596
+        },
+        {
+            "id": 889798650891481139,
+            "name": "Linh Nguy\u1ec5n",
+            "learning_time": 0.3088884872198105,
+            "day_learning": 0,
+            "week_learning": 0.3088884872198105,
+            "month_learning": 0.3088884872198105,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 720863803138375700,
+            "name": "tad421",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 633683663183151125,
+            "name": "Jonny Luong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890069381994917988,
+            "name": "Chu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 711208786592923708,
+            "name": "thanhle",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891277301017370684,
+            "name": "Thu Ng\u00e2n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 783931975140507688,
+            "name": "\u0110\u1ee9c Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889919532972511332,
+            "name": "kemcarem",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 703202801785896960,
+            "name": "Ginny",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 862709995564433450,
+            "name": "B\u00f4ng lan tr\u1ee9ng mu\u1ed1i",
+            "learning_time": 1.3318696831994588,
+            "day_learning": 0,
+            "week_learning": 1.3318696831994588,
+            "month_learning": 1.3318696831994588,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 878886803019530240,
+            "name": "Vy Vy",
+            "learning_time": 2.4051220482587814,
+            "day_learning": 0,
+            "week_learning": 2.4051220482587814,
+            "month_learning": 2.4051220482587814,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 487996549864095755,
+            "name": "AnhHuy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 582894845585129502,
+            "name": "NNDaiCuong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 359944857239814145,
+            "name": "\u0110\u0103ng Ch\u00ecnh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 691115294810439731,
+            "name": "Qu\u1ebf Chi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 877053807194947665,
+            "name": "Kh\u00e1nhVy\u2661\u00b4\uff65\u1d17\uff65`\u2661",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 869770918845612104,
+            "name": "fish_little",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891244670766698496,
+            "name": "\ud83d\ude42\ud83d\ude42",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890435226810064957,
+            "name": "bongdia22",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 471281626480115733,
+            "name": "yumi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886995357639270510,
+            "name": "Ng\u1ecdc Cute",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 855838609142448149,
+            "name": "H\u00e0nhl\u00e1",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 849514951461699604,
+            "name": "\ud83e\uddf8\ud83e\uddf8",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 391241097902555136,
+            "name": "HackerVNvipPro",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 850737877724692511,
+            "name": "Y\u1ebfn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 885854399098925057,
+            "name": "Phan Th\u1ebf Trung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886130987703103538,
+            "name": "Ph\u01b0\u01a1ng \u0110an",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 688998624960446517,
+            "name": "luciferdream",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 862302535829028865,
+            "name": "CAT",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891552079615766528,
+            "name": "B\u00f9i Thu H\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891253696736927746,
+            "name": "L\u00ednh H\u00ecnh Vu\u00f4ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 695841447840055347,
+            "name": "immasosweet",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890562583604658197,
+            "name": "Thanh H\u1eb1ngg",
+            "learning_time": 0.030426426596111722,
+            "day_learning": 0,
+            "week_learning": 0.030426426596111722,
+            "month_learning": 0.030426426596111722,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 878890252499054602,
+            "name": "Meteor_Justmystar",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 570199957542535178,
+            "name": "myquoc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891216983176151091,
+            "name": "ch\u1ecb",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 826508421544935424,
+            "name": "lynlyn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 850053692307931136,
+            "name": "Benben",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889513857767333888,
+            "name": "Quang \u0110\u1ea1i-TM06-2133",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 870674687468924948,
+            "name": "B\u1ea3o m\u1edbi ng\u1ee7 d\u1eady",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 868138193948672070,
+            "name": "Chunn.he",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 851398815059542037,
+            "name": "phamtuyenn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 684050699549409330,
+            "name": "Pissenlit",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 676095094172155925,
+            "name": "tthuyngoc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 539816742135005184,
+            "name": "phunguyen",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886588732013174814,
+            "name": "anhkhoi2003",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891333235978678322,
+            "name": "dauhuy2k",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 747885199815344259,
+            "name": "uyennhi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 700392555053056182,
+            "name": "Shimon",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 872505542487191592,
+            "name": "H\u01b0ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871027674431225946,
+            "name": "B\u1eafp n\u00e8",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890164131615879168,
+            "name": "Thanh Ng\u00e2n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 690180298410819596,
+            "name": "Rum",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 345491281075503105,
+            "name": "anhT",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890230153802842132,
+            "name": "daydreamer",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 842962097653415937,
+            "name": "wangwuy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 869238723366227970,
+            "name": "Kais N",
+            "learning_time": 0.14273313085238137,
+            "day_learning": 0,
+            "week_learning": 0.14273313085238137,
+            "month_learning": 0.14273313085238137,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 847822155404279918,
+            "name": "1211asapk",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 411120220518875136,
+            "name": "Kayy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890009713364844594,
+            "name": "Ng\u1ecdc Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891335119045021696,
+            "name": "holina8",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891303808116879360,
+            "name": "Thuy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 601798839694917665,
+            "name": "hoangdat",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891335467868520498,
+            "name": "Ho Truc Ngan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889807411530055730,
+            "name": "Tranchauu",
+            "learning_time": 0.64953472799725,
+            "day_learning": 0,
+            "week_learning": 0.64953472799725,
+            "month_learning": 0.64953472799725,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 676022459819884554,
+            "name": "Fuwa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889907283323142175,
+            "name": "Th\u1ea3o Nguy\u00ean",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891263868377104384,
+            "name": "ThanhTrang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889820397804072960,
+            "name": "kh\u1ea3i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891327278376697917,
+            "name": "HT",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 404125342153048086,
+            "name": "KDuy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 849583863944577025,
+            "name": "Yahy",
+            "learning_time": 2.1373350048065185,
+            "day_learning": 0,
+            "week_learning": 2.1373350048065185,
+            "month_learning": 2.1373350048065185,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 746183241983328326,
+            "name": "\ud835\ude90\ud835\ude9e\ud835\ude96\ud835\ude9e\ud835\ude9c\ud835\ude9c\ud835\ude8e\ud835\ude9b\ud835\ude9f\ud835\ude92",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 539688578649686038,
+            "name": "tuankhoioc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889852219069976597,
+            "name": "th\u1ee7y",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 501642459797913600,
+            "name": "ho\u00e0ng ki\u1ec7t",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890073256688746527,
+            "name": "M\u1ef9 Duy\u00ean",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874282524166225940,
+            "name": "B\u00e9 Th\u1ea3o cu te ph\u00f4 mai que",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 781529707530289153,
+            "name": "Kush",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 719395821157613620,
+            "name": "!           M\u1ed9ng V\u00e0ng Kh\u00e8",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889885791302602752,
+            "name": "Thu H\u00e0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 654628914781487116,
+            "name": "nguyennnn1",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891340799332192257,
+            "name": "Hu\u1ef3nh Mai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 740201232236544063,
+            "name": "anhsonkhoaibu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891326772325543946,
+            "name": "Anhducdiscord",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891287312825196564,
+            "name": "Nguy\u1ec5n Th\u1ecb Tr\u00e2m Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 412193719538941954,
+            "name": "North Flat",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 691564114987712514,
+            "name": "phuongdung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 487922574391771142,
+            "name": "Katietramcam",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889907008537501728,
+            "name": "Kh\u00f4i Nguy\u00ean",
+            "learning_time": 7.810231784714593,
+            "day_learning": 7.766652882032925,
+            "week_learning": 7.810231784714593,
+            "month_learning": 7.810231784714593,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 872508336174661642,
+            "name": "Tr\u00fac Uy\u00ean",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 775018648837423105,
+            "name": "Thu\u1ef7 Ti\u00ean",
+            "learning_time": 0.04764018754164378,
+            "day_learning": 0,
+            "week_learning": 0.04764018754164378,
+            "month_learning": 0.04764018754164378,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891271861328035851,
+            "name": "duc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 880115464519434320,
+            "name": "Kh\u00e1nhAnnNeee",
+            "learning_time": 9.107279687457615,
+            "day_learning": 0,
+            "week_learning": 9.107279687457615,
+            "month_learning": 9.107279687457615,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 756531626229497978,
+            "name": "Luuhan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 374020302709194753,
+            "name": "matthewdo_",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 595269756827729941,
+            "name": "chouzoel",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890418446746152971,
+            "name": "Nhunn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 678650979511435302,
+            "name": "Stud",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891343552410443846,
+            "name": "ch\u1ecb",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 630021137476222996,
+            "name": "Akukinemployee",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 698172504220368901,
+            "name": "linh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 656835451109244958,
+            "name": "cuuxanh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 446185760224444418,
+            "name": "bo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 882295331709149294,
+            "name": "hv.tuantu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 597504241975951386,
+            "name": "T\u00ed M\u1eadp the second",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 386707735934402578,
+            "name": "C\u00e1o B\u00e9",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 524571671705813006,
+            "name": "manhlam3010",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 593748159507726346,
+            "name": "Cali",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 693683415748313128,
+            "name": "NhiNhiNhi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891534902066040873,
+            "name": "Mell Tran",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890199851302789120,
+            "name": "Thuyne",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 850984293991972874,
+            "name": "Trung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891535132949905449,
+            "name": "douquin",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 888086870213402685,
+            "name": "0937031020",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 865983201608597510,
+            "name": "Thanh Vy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 855391017360556052,
+            "name": "yumi-chan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 452671843648929792,
+            "name": "qu\u1ef3nh nhi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 710178555132248225,
+            "name": "fatBatman",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 806219103621873757,
+            "name": "\u2728H\u00e8o H\u00e8o\ud83d\udcab",
+            "learning_time": 6,
+            "day_learning": 0,
+            "week_learning": 6,
+            "month_learning": 6,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 765891080997830656,
+            "name": "ngiucute",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 864916449860517939,
+            "name": "Chilli",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871712067613229098,
+            "name": "TienDung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874630606124875786,
+            "name": "HTruong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891538284528951337,
+            "name": "callmePhamSang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 856932064280444968,
+            "name": "Shincuteo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 847781179624259584,
+            "name": "kimthao2501",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891280745832808479,
+            "name": "Halldora",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 637651582820941854,
+            "name": "taolaabuday",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 872844939506114561,
+            "name": "0905635732a",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891306482728067082,
+            "name": "HaiLinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 729705773638352947,
+            "name": "Ho\u00e0ng SG",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871433813237059664,
+            "name": "minmin",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 851022444311740457,
+            "name": "\u0110\u1eb7ng V\u00f5 \u0110\u00e0o Nhung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 643781934664777731,
+            "name": "taihong2102",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 759473573692964954,
+            "name": "Nhat Nam",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 827551588062330951,
+            "name": "L-Vy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 873609521929523281,
+            "name": "Sherry",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871245564417802252,
+            "name": "Anna Vu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 814475045232836608,
+            "name": "thunroxi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890941190684442625,
+            "name": "greeny",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 732218518782607370,
+            "name": "Loki is me",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884779661270319155,
+            "name": "nhung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 510686078613585920,
+            "name": "CsuhP",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 746263826915131484,
+            "name": "TranTienDat",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891554725307236352,
+            "name": "Nguy\u1ec5n Thanh Th\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891346598544687135,
+            "name": "Thu Th\u1ebbo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 524919737784860703,
+            "name": "Khoa v\u00e0 G\u00e0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 865977470159290378,
+            "name": "hldminhhh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891307487758786590,
+            "name": "\u0110\u00ecnh Nghi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 697295386515210263,
+            "name": "NhtPhuc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886505432376561664,
+            "name": "hihihaha",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890967179170807838,
+            "name": "Dieu Hien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 447451748278206464,
+            "name": "toanv",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891538513928019989,
+            "name": "Nh\u01b0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890219663345193001,
+            "name": "Aaron Phuoc Hien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 860738284221235240,
+            "name": "\u0110\u1ea1t",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 761890735581691945,
+            "name": "Vi\u1ec7t Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889783884059934800,
+            "name": "Orenji",
+            "learning_time": 0.1666163417365816,
+            "day_learning": 0.1666163417365816,
+            "week_learning": 0.1666163417365816,
+            "month_learning": 0.1666163417365816,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889905346360000592,
+            "name": "\uc9c0\uc740",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 757999240462073876,
+            "name": "\ud835\udcd1\u00e9\u2022\ud835\udcd3\ud835\udcf8\ud835\udcfb\ud835\udd02",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 545676966976552960,
+            "name": "hongocyu",
+            "learning_time": 7.506789124276903,
+            "day_learning": 0,
+            "week_learning": 7.506789124276903,
+            "month_learning": 7.506789124276903,
+            "current_level": 2,
+            "join_time": 1634667059.795263
+        },
+        {
+            "id": 321980232766717952,
+            "name": "Kang V\u00f5",
+            "learning_time": 0.7591641743977864,
+            "day_learning": 0.7591641743977864,
+            "week_learning": 0.7591641743977864,
+            "month_learning": 0.7591641743977864,
+            "current_level": 0,
+            "join_time": 1634653896.5564969
+        },
+        {
+            "id": 858001745556144148,
+            "name": "Vicgyrr",
+            "learning_time": 0.0013034990761015151,
+            "day_learning": 0,
+            "week_learning": 0.0013034990761015151,
+            "month_learning": 0.0013034990761015151,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 559317374101356556,
+            "name": "Dokilachi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 722844022300999690,
+            "name": "gao s\u00f3i b\u1ea1c",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 814854806958243931,
+            "name": "EdwinKhoa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 796771076239654952,
+            "name": "!                  M\u1ed9ng Xanh Xao",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 873924389278720071,
+            "name": "piicute",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874645625298362398,
+            "name": "C\u00e0 Ri Boy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891149545881358357,
+            "name": "tietquocan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891312519308775435,
+            "name": "Nguy\u1ec5n Th\u1ecb Lan H\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 482881239032922113,
+            "name": "Bin L\u00ea",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 852042165760426055,
+            "name": "crispink0770",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 314780933528223755,
+            "name": "quocan910",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891555711711072277,
+            "name": "Nguy\u1ec5n Thanh Th\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890591834043191356,
+            "name": "th\u1ea3o nguy\u00ean",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 738437515735728210,
+            "name": "Nguy\u00ean Ngok Ngek",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 372959444553695232,
+            "name": "B\u00e9 Ph\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891346430130814986,
+            "name": "Annt_uef",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 726332583092158465,
+            "name": "Nh\u00e0n nh\u00ed nh\u1ea3nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 882622265102061638,
+            "name": "b\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891337283976974368,
+            "name": "kiuumy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 653516263485866025,
+            "name": "HantotheDuong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886582001946226729,
+            "name": "Tramngoc03",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891341336563822672,
+            "name": "Hu\u1ef3nh Mai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 820320547204104233,
+            "name": "M\u1eadp\ud83e\udd88",
+            "learning_time": 0.0005482682916853163,
+            "day_learning": 0,
+            "week_learning": 0.0005482682916853163,
+            "month_learning": 0.0005482682916853163,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 754873625651445932,
+            "name": "h\u00e1i th\u1ee9 hi\u00eau",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891564971845099520,
+            "name": "Nguy\u1ec5n Tr\u1ea7n Quang Kh\u1ea3i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 878624810740088832,
+            "name": "H\u00e2n Kh\u00e1nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891573102432096266,
+            "name": "Uy\u00ean",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 872720954302791710,
+            "name": "tr\u1ea7n h\u1ea1nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 580232626930188298,
+            "name": "Ti\u1ebfn D\u0169ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884268057915187210,
+            "name": "nguyendoantramy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 843721586346557471,
+            "name": "GCGSummer",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 857287759483895861,
+            "name": "Sii \ud83e\udd7a\ud83e\udd7a",
+            "learning_time": 0.009423056443532307,
+            "day_learning": 0,
+            "week_learning": 0.009423056443532307,
+            "month_learning": 0.009423056443532307,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 855279868476260383,
+            "name": "RGE MidNight",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 613713598098702338,
+            "name": "T\u00ednz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890218972857921597,
+            "name": "Hien Le Phuoc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 841932914567544842,
+            "name": "dalziel",
+            "learning_time": 1.3603927954037984,
+            "day_learning": 0.1774457358651691,
+            "week_learning": 1.3603927954037984,
+            "month_learning": 1.3603927954037984,
+            "current_level": 0,
+            "join_time": 1634667020.6174328
+        },
+        {
+            "id": 891263843102249020,
+            "name": "Yuki_Tr\u1ea7n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 852236169084796938,
+            "name": "sly",
+            "learning_time": 0.32481071684095597,
+            "day_learning": 0,
+            "week_learning": 0.32481071684095597,
+            "month_learning": 0.32481071684095597,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890071644595433512,
+            "name": "Hiro1",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 849338016844742666,
+            "name": "2312",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891234603984125992,
+            "name": "hatranngocthuy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 877562074161623090,
+            "name": "AnThei",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 490899304836497418,
+            "name": "MioKit",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 766527318352855041,
+            "name": "khoa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 682108636499148985,
+            "name": "STAR",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 887887013360050177,
+            "name": "hi.bangne",
+            "learning_time": 0.00534294260872735,
+            "day_learning": 0,
+            "week_learning": 0.00534294260872735,
+            "month_learning": 0.00534294260872735,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 848987560696348722,
+            "name": "Ngh\u0129a \u0110o\u00e0n",
+            "learning_time": 0.11456739803155264,
+            "day_learning": 0,
+            "week_learning": 0.11456739803155264,
+            "month_learning": 0.11456739803155264,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 847147986651447337,
+            "name": "daicuong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 458165186834989067,
+            "name": "khang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890588314497843221,
+            "name": "con nai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891341400111718440,
+            "name": "Mia123",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 748805117368729622,
+            "name": "anhchangleloi0302",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891302731891998790,
+            "name": "Ng\u1ecdc Lann",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890595143407784026,
+            "name": "En N\u00ec",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884119603905703997,
+            "name": "H\u1eefu Th\u00f4ng - TM02",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891317656752390164,
+            "name": "\u30c4KhoaDang\u30b7",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891247318353969162,
+            "name": "Nguy\u1ec5n Ng\u1ecdc \u00c1nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 198393031676657665,
+            "name": "Hiu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891340013596450896,
+            "name": "D\u01b0\u01a1ng Gia B\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 846449284995088445,
+            "name": "Swell.vx",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 876129621932933200,
+            "name": "Hiuss",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 846738843464892433,
+            "name": "AT N\u00faM T\u00f3C T\u00e1T T\u1edbi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 477450640184836107,
+            "name": "B\u0110an",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 516773779477757973,
+            "name": "A$AP PhxNgo",
+            "learning_time": 9.74041532046265,
+            "day_learning": 4.364848796857728,
+            "week_learning": 9.74041532046265,
+            "month_learning": 9.74041532046265,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 890220840094928986,
+            "name": "mghannne",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884264125394477119,
+            "name": "Anh Th\u01b0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 872692493332934686,
+            "name": "Rinblu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891531161141137428,
+            "name": "mushi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890774853555204117,
+            "name": "Norman",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 881508213722316830,
+            "name": "Thuy Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871791760723017778,
+            "name": "wuhn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 423100068917149706,
+            "name": "Th\u00e0nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 856155579038957568,
+            "name": "D\u01b0\u01a1ng D\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 410373093794512896,
+            "name": "huy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 779948141377355836,
+            "name": "tobi11",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 695570971960016906,
+            "name": "Irishman | ivxxb3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 785865442597011487,
+            "name": "CHRIS \ud83c\udf6d",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891656456720515082,
+            "name": "ngphucduyen",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 866637845196308480,
+            "name": "bbiletter",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891614579115831357,
+            "name": "Thien Nga",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 606091801929056282,
+            "name": "trungcucasd123",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 864491995875377153,
+            "name": "duy dinh",
+            "learning_time": 2.0675744679239063,
+            "day_learning": 0,
+            "week_learning": 2.0675744679239063,
+            "month_learning": 2.0675744679239063,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 866886265571901440,
+            "name": "Pheocuteo \ud83e\udd7a",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 479308973904756748,
+            "name": "Chrismond",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891531555133087774,
+            "name": "Nguy\u1ec7t Qu\u1ebf \ud83e\udd70\ud83d\ude1c",
+            "learning_time": 0.38398927801185184,
+            "day_learning": 0,
+            "week_learning": 0.38398927801185184,
+            "month_learning": 0.38398927801185184,
+            "current_level": -1,
+            "join_time": 1633010778.2812068
+        },
+        {
+            "id": 586829810781650944,
+            "name": "ThanhTiuss",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 431437162765090816,
+            "name": "B\u00e9ofufu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 873095269691056168,
+            "name": "Ernesta",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884283733883109406,
+            "name": "Thi\u00ean Ng\u00e2n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891531530541862943,
+            "name": "knhi7939",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 864707856263938048,
+            "name": "_2910gaubbie",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 710698690905505872,
+            "name": "Bu\u1ed3n ng\u1ee7 qu\u00e1 lu\u00f4n \u00e1",
+            "learning_time": 11.631618062125314,
+            "day_learning": 1.565659827126397,
+            "week_learning": 11.631618062125314,
+            "month_learning": 11.631618062125314,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 891267187304710184,
+            "name": "Th\u01b0 Nguy\u1ec5n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 848629999909208094,
+            "name": "juneboi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891558635132567562,
+            "name": "duckytran",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874604828729413642,
+            "name": "Helly",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 735888433603674204,
+            "name": "Dajkliyfer",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891343381568061482,
+            "name": "tinkerbell",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891313388959969292,
+            "name": "Ny",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891243189598580757,
+            "name": "Nh\u01b0 Ng\u1ecdc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891332418353635379,
+            "name": "Ngo\u0323c",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891252075986563093,
+            "name": "nbtraan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 606914544975085600,
+            "name": "Ikaros",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 758119160827346946,
+            "name": "MinHuyenef",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 699818233900957718,
+            "name": "nlnhauyen",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 339738688017924098,
+            "name": "Black Knight",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 857249813840789545,
+            "name": "ahn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891234800705359892,
+            "name": "dauhuy2k",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 481788427780620298,
+            "name": "duyanhsdte",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891263497248333897,
+            "name": "imqtrang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 786108213887238174,
+            "name": "trungkien9983",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 563677172519272458,
+            "name": "\ud835\udcd7\ud835\udcfe\ud835\udd02\ud835\udd73\ud835\udd86\ud835\udd9e\ud835\udd59\ud835\udd60",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891297989346328626,
+            "name": "ph\u00f9ng tu\u1ea5n kha",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 881273044012769362,
+            "name": "seniza1",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891544682100818000,
+            "name": "Peachy_tran",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 757131953588666439,
+            "name": "thuonghuy2309",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 885928119406583828,
+            "name": "tho\u1ea1i t\u00e2m",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874653779419619389,
+            "name": "pdk2002",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884497531780886528,
+            "name": "Anh H\u00e0o - TM01 - 1366",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889903906807775304,
+            "name": "Lehuyen28",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 869372791806394398,
+            "name": "young boi si t\u00ecnh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 419498150256967692,
+            "name": "Soya",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 866330887246708826,
+            "name": "Trung n\u00e0i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 864390029726842890,
+            "name": "proso10c",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 771371732111851560,
+            "name": "huy l\u00ea",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 885555742776643596,
+            "name": "hoangnam98",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891309975429849098,
+            "name": "V\u00f5 Huy\u1ec1n Tr\u00e2m",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891366040846618655,
+            "name": "kien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 493025149487022081,
+            "name": "yuiii",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 846420475425062953,
+            "name": "xu\u00e2n \u0111\u1ed9",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 671682389143191573,
+            "name": "vin",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891511851538587648,
+            "name": "trantiendinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 852550175222530088,
+            "name": "Nho",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891251532127944725,
+            "name": "thaiquang888",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890904259816738877,
+            "name": "Ti\u1ebfn D\u0169ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 756512984104304771,
+            "name": "H.Luan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 841947392352714772,
+            "name": "hathanhanh114",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 861451497745154078,
+            "name": "ph\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 876069916871127040,
+            "name": "ducttran",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891174391055015958,
+            "name": "th.an03",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891340317092093972,
+            "name": "MH",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891282515388682291,
+            "name": "Tr\u01b0\u01a1ng Kh\u00e1nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891567272794148935,
+            "name": "toanvh20",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889932080652382218,
+            "name": "hanhan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 509621844589150218,
+            "name": "s\u01a1n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 849017168779804682,
+            "name": "T\u1ea5t Lu\u1eadn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 782194288603824128,
+            "name": "khanhvu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 758588622722039820,
+            "name": "Ch\u00e2u Thanh Ng\u1ecdc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884772908587687946,
+            "name": "phong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 850641572835098634,
+            "name": "thi\u1ec7n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 809702722718400514,
+            "name": "Roonie",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890198721030131812,
+            "name": "Mu\u1ed1i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 660063027407880192,
+            "name": "tr\u1ea7n hi\u1ebfu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 485072413806297098,
+            "name": "hiusIT_2k",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 697085095739392000,
+            "name": "\u00cdn \u00cdn",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890880122893254657,
+            "name": "Rum",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 865563303148781598,
+            "name": "phongsksssss",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 845219618591211551,
+            "name": "Ph\u01b0\u1ee3ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891311794109427733,
+            "name": "Hos Naomi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891535887240929310,
+            "name": "Ph\u1ea1m Th\u00e2n Th\u1ebf",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891243045536821308,
+            "name": "syrena",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 860451798606938112,
+            "name": "nhatan91020",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890501729194483723,
+            "name": "Lan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 861344673003339826,
+            "name": "Mr. Minh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891211320471482378,
+            "name": "Riddle",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891312650745696258,
+            "name": "truongnm221",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890748753907175465,
+            "name": "Hiro1",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891338816185589820,
+            "name": "hihihi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 603602314556735560,
+            "name": "Tommiz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 556652714541580289,
+            "name": "Tu B\u1edd Ni",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 841910529148059648,
+            "name": "hehehihi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 487184797983178765,
+            "name": "Lucifer",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891648095417401364,
+            "name": "Nguy\u1ec5n ng\u1ecdc thinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 599077875890520082,
+            "name": "l\u1ea5y tao con dao",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 467341453140557865,
+            "name": "hu\u1ef3nh v\u0169",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891283133255806986,
+            "name": "Tu\u1ea5n Kh\u00f4i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 874926240354697236,
+            "name": "hungdepzai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 690960713925263430,
+            "name": "namchoen",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 613714830221770782,
+            "name": "xoxoduc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 774645502104567828,
+            "name": "viettthoaaa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 863649824179617792,
+            "name": "Nh\u1ef1t",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 571554806616031238,
+            "name": "haivuhai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 704218161074929734,
+            "name": "Hu\u1ef3nh Kh\u01b0\u01a1ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891242587938234398,
+            "name": "taolalong2",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 691645106779979777,
+            "name": "Ti\u1ebfn Ti\u1ec1n T\u1ec9",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891218324359360562,
+            "name": "Ho\u00e0ng Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 806708398124171284,
+            "name": "tiendinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 529611735934697492,
+            "name": "tr\u1ea7n qu\u1ed1c b\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891248703019552778,
+            "name": "Huu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891689707728146463,
+            "name": "nguyenviettien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 868831614220795984,
+            "name": "25deczy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889904823661650002,
+            "name": "Vi\u1ec7t L\u00e2m",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891264476442165278,
+            "name": "khanhhvg18",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891562570954186802,
+            "name": "theanh2603",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 443037334074687488,
+            "name": "goilatan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 609778587633057814,
+            "name": "trucuyen2172",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 766663968256819230,
+            "name": "t\u1edb c\u1eadu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 859464439798693909,
+            "name": "kd",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889912177115410503,
+            "name": "V\u00f5 T\u01b0\u1eddng Vy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 264752567001677825,
+            "name": "T\u00faT\u00f4n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889891087437664277,
+            "name": "Ho\u00e0ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 575632055711563777,
+            "name": "tammummim",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 760723575606476800,
+            "name": "tnanh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 888382065618341969,
+            "name": "Mai Linh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 849467859495157832,
+            "name": "nin.zan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 478438353612832788,
+            "name": "\ud83d\ude33\ud83d\ude33\ud83d\ude33",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891291837229314078,
+            "name": "TT01",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 881363641230835772,
+            "name": "st.3",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891275583529578526,
+            "name": "Tr\u1ea7n Huy Tr\u1ecdng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891219661843202058,
+            "name": "Tr\u1ecbnh Ho\u00e0ng Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891554448239915068,
+            "name": "thanh1911",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 865977340244787210,
+            "name": "tienloipham",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891281023013363723,
+            "name": "Trung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 870949154321481778,
+            "name": "phong",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884799919184052324,
+            "name": "Hien Le Phuoc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 889858220858949662,
+            "name": "Huydeptrai",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 841041179340439563,
+            "name": "nghia0410",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871990513971126293,
+            "name": "lewann8",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 850362214891126824,
+            "name": "Zades3012",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 733919239387217950,
+            "name": "Th\u1ecbnh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 846023641052217375,
+            "name": "mikenzer0147",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891253944788078632,
+            "name": "H\u1ea3i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 698010023510540349,
+            "name": "LLCS | T\u00e0o Th\u00e1o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 862370737133453362,
+            "name": "waianhh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886187463247282227,
+            "name": "Nguy\u1ec5n \u0110\u1ee9c Ph\u01b0\u1edbc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 880821104728502323,
+            "name": "MooN",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 496177725220978698,
+            "name": "TienTien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 711126641728028672,
+            "name": "percivalxxx",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 617340561740922899,
+            "name": "thanh hi\u1ebfu",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891257473497972796,
+            "name": "Johnny01",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891262350773067786,
+            "name": "xoxo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890500797895409664,
+            "name": "Lan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871439123494342758,
+            "name": "trab",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 868520764305993778,
+            "name": "nokoa169",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 882173815826825266,
+            "name": "Phamchephihung",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 683336676252188894,
+            "name": "Huy Ho\u00e0n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891348715590262824,
+            "name": "Thu Th\u1ebbo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 447692948843266048,
+            "name": "Khoa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891701120643244052,
+            "name": "Th\u00e1i Hi\u1ec1n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 870711003539714119,
+            "name": "y\u1ebfn nhi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 879324041217982464,
+            "name": "Th\u00fay V\u00e2n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 863078929181835294,
+            "name": "corbin2205",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 694076984350736404,
+            "name": "B\u1ea3o B\u1ea3o",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 886270202122207323,
+            "name": "ph\u1ee5ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 497746638702641153,
+            "name": ".Alex.",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 890906360303210496,
+            "name": "lanbona1234",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 549835895755505714,
+            "name": "remizdabezt",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 605394721442889789,
+            "name": "HTC\u30fbHonShy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891969921062432800,
+            "name": "ConThoXauXi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 483532058505773067,
+            "name": "vinhhien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 783364508394848256,
+            "name": "vinhhien",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 505029195823579147,
+            "name": "RaiOzO",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891974583912103958,
+            "name": "Ng\u1ecdc B\u00edch",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 857310427922169878,
+            "name": "la ph\u01b0\u1ee3ng",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 881247031123906611,
+            "name": "gialinhhn",
+            "learning_time": 1.9425479097498788,
+            "day_learning": 0,
+            "week_learning": 1.9425479097498788,
+            "month_learning": 1.9425479097498788,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 890466427964882974,
+            "name": "Be\u0301 B\u01a1 Cute",
+            "learning_time": 0.23661506878005134,
+            "day_learning": 0,
+            "week_learning": 0.23661506878005134,
+            "month_learning": 0.23661506878005134,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 726719844556210216,
+            "name": "Dojin",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 334596096984875009,
+            "name": "L1sa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891987094807916595,
+            "name": "Bao Tran",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891974568632270889,
+            "name": "Qu\u1ef3nh Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 851397976651333632,
+            "name": "Mi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891988413614530591,
+            "name": "_baotr4n.n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891989602049605632,
+            "name": "VYNGUYEN",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891985901285179425,
+            "name": "huangqingming",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 703190445462650962,
+            "name": "H\u1ecbpn\u00e8hihi",
+            "learning_time": 2.236615,
+            "day_learning": 0,
+            "week_learning": 2.236615,
+            "month_learning": 2.236615,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 879717629730889728,
+            "name": "Maiiiiiiiiii",
+            "learning_time": 3,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891999693905747998,
+            "name": "Thanh Th\u01b0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 755048063957205099,
+            "name": "V\u0169 Ng\u1ecdc B\u1eafc",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 892039832115773480,
+            "name": "Mai Thy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 756905791444746349,
+            "name": "ring",
+            "learning_time": 8.032706048753526e-05,
+            "day_learning": 0,
+            "week_learning": 8.032706048753526e-05,
+            "month_learning": 8.032706048753526e-05,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 866735170953543710,
+            "name": "boob bae",
+            "learning_time": 6.367304954926173,
+            "day_learning": 3.5944568286339442,
+            "week_learning": 6.367304954926173,
+            "month_learning": 6.367304954926173,
+            "current_level": 2,
+            "join_time": 0
+        },
+        {
+            "id": 877565313024155710,
+            "name": "Ng\u00e2n \u0111\u00e2y",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 848078189707788298,
+            "name": "_tuongvy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 423812357203165194,
+            "name": "Manh Dung Dinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 756881686079340548,
+            "name": "Quinzy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 892374231579516968,
+            "name": "th\u1ea3o mi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 884706009959002132,
+            "name": "Aroma",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 848567707216379924,
+            "name": "tzuyang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 852908688163602462,
+            "name": "Ashleyy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 746248792403214436,
+            "name": "phai that binh tinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 892411736492245063,
+            "name": "tanphuc69",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 604401723502493739,
+            "name": "Nhuhue",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 870646550165061643,
+            "name": "choconcodon",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 858410492125380610,
+            "name": "Chimi",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 869241606694404136,
+            "name": "Cuu Xanh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 347929414463651840,
+            "name": "Himato",
+            "learning_time": 2.502935227089458,
+            "day_learning": 0,
+            "week_learning": 2.502935227089458,
+            "month_learning": 2.502935227089458,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 884650879813300285,
+            "name": "bchau2210",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 892667389437677568,
+            "name": "TranDz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 848240952597938218,
+            "name": "ng\u01b0\u1eddi \u0111\u00e0n b\u00e0 c\u00f4 \u0111\u01a1n",
+            "learning_time": 0.1481222192446391,
+            "day_learning": 0,
+            "week_learning": 0.1481222192446391,
+            "month_learning": 0.1481222192446391,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 458358163901513768,
+            "name": "Tuy\u1ebft M\u1ef9",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 545873817638010881,
+            "name": "Tris",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 876074858671398992,
+            "name": "th\u00e0nhkitty",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895618173259354152,
+            "name": "Thi\u00ean L\u00fd",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895618009341788200,
+            "name": "Huy Huy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 852796465779834881,
+            "name": "Tristyna",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 680757222367559687,
+            "name": "ngnvy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 693277496870961194,
+            "name": "JohnCenaaa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 892192362053382174,
+            "name": "Thanh Thanh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 757239890961498135,
+            "name": "phongpham123",
+            "learning_time": 0.5325101512008243,
+            "day_learning": 0,
+            "week_learning": 0.5325101512008243,
+            "month_learning": 0.5325101512008243,
+            "current_level": 0,
+            "join_time": 0
+        },
+        {
+            "id": 895650064956018749,
+            "name": "Ph\u1ea1m H\u1eefu Duy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895652881062068274,
+            "name": "trangyumi1411",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895661177202425857,
+            "name": "ok baby",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895660988316143677,
+            "name": "Ch\u01b0 Nh\u01b0",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895669636769660928,
+            "name": "C\u00f4ng an n\u1ed5i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 811470897159471134,
+            "name": "thanh th\u00f9y",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 863102889852796958,
+            "name": "Call me T\u00fa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895695969725845515,
+            "name": "Baro",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 634753443248078869,
+            "name": "Moss",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895878709310001192,
+            "name": "Tr\u1ea7n Thanh Thanh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 857998371109339166,
+            "name": "huetrang",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895780664975171614,
+            "name": "Lisa - NDK",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 895930031707140177,
+            "name": "MaiVy1505",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 896208155267182612,
+            "name": "BigChick",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 618356096662503425,
+            "name": "vohoangphuc070403",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 894040932536705024,
+            "name": "Son  Dao",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 456317088772915216,
+            "name": "ganngha",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 694906615496704093,
+            "name": "NgocThao",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 370849218941812737,
+            "name": "Emsinhvienlonnuocngot",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 412347257233604609,
+            "name": "Jockie Music (1)",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 871751770664235038,
+            "name": "quynhpage",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 870359814562258954,
+            "name": "\u0110i\u00ean Th\u1eadt",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 400234896469262337,
+            "name": "TrongDat",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 274101117107961857,
+            "name": "Dorogan",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 657930641001807914,
+            "name": "SugarDaddy",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897826447643783192,
+            "name": "tinaphera",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891285232026808340,
+            "name": "Ridz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 530757869453180930,
+            "name": "Kuroooo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897842676123189289,
+            "name": "thuhuongfleur",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 366896568928043008,
+            "name": "\u24c2\u24bf\u24ca\u24b6\u24c3\u24c8.\u24be",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897850678620344360,
+            "name": "Vi\u1ec7t Trinh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 891353325403013212,
+            "name": "duyvip333",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897858023723253810,
+            "name": "Ph\u00fac",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897864919599431700,
+            "name": "oanhdtk21",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897860581455986688,
+            "name": "doananh19112003",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897870300077752370,
+            "name": "Tu\u1ea5n",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 659035696497164315,
+            "name": "maiquanganh1103",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 694771943181778954,
+            "name": "tieucaca123",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897887071883120692,
+            "name": "veyveybeo",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 897883956207296532,
+            "name": "Duy H\u1ea3i",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 471350764292538368,
+            "name": "Huyz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 899947453892157460,
+            "name": "Qu\u1ef3nh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 355215118650441730,
+            "name": "Huyz",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 807964970326294538,
+            "name": "anvtk158",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 316722049433337858,
+            "name": "ph\u00fa",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
+            "join_time": 0
+        },
+        {
+            "id": 900069184229220362,
+            "name": "Ti\u1ec3u Anh Anh",
+            "learning_time": 0,
+            "day_learning": 0,
+            "week_learning": 0,
+            "month_learning": 0,
+            "current_level": -1,
             "join_time": 0
         }
     ]

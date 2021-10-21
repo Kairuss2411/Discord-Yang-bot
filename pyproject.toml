@@ -8,6 +8,9 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 discord = "^1.7.3"
 Flask = "^2.0.1"
+schedule = "^1.1.0"
+pytz = "^2021.3"
+aiocron = "^1.7"
 
 [tool.poetry.dev-dependencies]
 

@@ -1,8 +1,32 @@
 {
   "levels": [
     {
-      "name": "",
-      "mark":""
+      "order":0,
+      "id":891301474821361715,
+      "name": "Jadeite - Beginner (30p-3h)",
+      "mark": 0.5,
+      "end":3
+    },
+    {
+      "order":1,
+      "id":891302022727483413,
+      "name": "Aquamarine - Amateur (3h-6h)",
+      "mark":3,
+      "end":6
+    },
+    {
+      "order":2,
+      "id":891302204588294195,
+      "name": "Tourmaline - Advanced (6h-12h)",
+      "mark":6,
+      "end":12
+    },
+    {
+      "order":3,
+      "id":891302375317442582,
+      "name": "Garnet - Expert (12h-20h)",
+      "mark":12,
+      "end":20
     }
   ]
 }
